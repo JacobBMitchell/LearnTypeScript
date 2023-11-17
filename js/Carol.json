@@ -1,0 +1,12 @@
+{
+    "firstname": "Carol",
+    "lastname": "Knight",
+    "faveMovies": [
+        "Lion King",
+        "Lord of the Rings",
+        "Lion King 2"
+    ],
+    "age": 21,
+    "Male": false,
+    "horny": true
+}
